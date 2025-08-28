@@ -93,7 +93,7 @@
             max-width: 40%;
         }
         .leaflet-control {
-            box-shadow: 0 3px 14px rgba(0, 0, 0, 0.2)!important;
+            box-shadow: 0 8px 14px rgba(0, 0, 0, 0.2)!important;
             border-radius: 2px;
         }
         .leaflet-touch .leaflet-control-layers,
